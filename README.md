@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img alt="CometChat" src="https://assets.cometchat.io/website/images/logos/banner.png">
 </p>
 
@@ -51,7 +51,7 @@ Discover the all-new [v5 UI Kit](https://github.com/cometchat/cometchat-uikit-re
 
 - Ensure that you have the React Native development environment set up.
   - Follow instructions for your environment at https://reactnative.dev/docs/environment-setup
-- Sign up for a [CometChat](https://app.cometchat.com/) account to get your app credentials: _`App ID`_, _`Region`_, and _`Auth Key`_
+- Sign up for a [CometChat](https://app.cometchat.com/) account to get your app credentials: _`App ID`_, _`Region`_, and _`Auth Key`_ -->
 
 ## Installation
 
@@ -62,7 +62,7 @@ Discover the all-new [v5 UI Kit](https://github.com/cometchat/cometchat-uikit-re
      ```
 2. Navigate to the cloned directory:
    ```
-   cd cometchat-sample-app-react-native
+   cd Mychatbit-uikit-app-react-native
    ```
 3. Install dependencies:
    ```
@@ -73,9 +73,9 @@ Discover the all-new [v5 UI Kit](https://github.com/cometchat/cometchat-uikit-re
      cd ios
      pod install
    ```
-5. Enter your CometChat _`App ID`_, _`Region`_, and _`Auth Key`_ in the [AppConstants.ts](https://github.com/cometchat/cometchat-sample-app-react-native/blob/v4/AppConstants.ts) file:
+<!-- 5. Enter your CometChat _`App ID`_, _`Region`_, and _`Auth Key`_ in the [AppConstants.ts](https://github.com/cometchat/cometchat-sample-app-react-native/blob/v4/AppConstants.ts) file:
    https://github.com/cometchat/cometchat-sample-app-react-native/blob/f2910c28c3d3d49031e37a58c536efca1f77cb27/AppConstants.ts#L1-L5
-6.  If your app is created before August 12th, 2024 then change the sample data URL to `https://assets.cometchat.io/sampleapp/v1/sampledata.json` in the [src/components/login/Login.tsx](https://github.com/cometchat/cometchat-sample-app-react-native/blob/v4/src/components/login/Login.tsx) file: https://github.com/cometchat/cometchat-sample-app-react-native/blob/f2910c28c3d3d49031e37a58c536efca1f77cb27/src/components/login/Login.tsx#L20-L22
+6.  If your app is created before August 12th, 2024 then change the sample data URL to `https://assets.cometchat.io/sampleapp/v1/sampledata.json` in the [src/components/login/Login.tsx](https://github.com/cometchat/cometchat-sample-app-react-native/blob/v4/src/components/login/Login.tsx) file: https://github.com/cometchat/cometchat-sample-app-react-native/blob/f2910c28c3d3d49031e37a58c536efca1f77cb27/src/components/login/Login.tsx#L20-L22 -->
 
 7. Run the app on a device or emulator from the repo root.
    ```sh
@@ -86,4 +86,4 @@ Discover the all-new [v5 UI Kit](https://github.com/cometchat/cometchat-uikit-re
 
 ## Help and Support
 
-For issues running the project or integrating with our UI Kits, consult our [documentation](https://www.cometchat.com/docs/react-native-uikit/integration) or create a [support ticket](https://help.cometchat.com/hc/en-us) or seek real-time support via the [CometChat Dashboard](http://app.cometchat.com/).
+For issues running the project or integrating with our UI Kits, please create an issue on our GitHub repository. We are here to help and support you in your development journey.
