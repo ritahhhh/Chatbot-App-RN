@@ -58,7 +58,7 @@ Discover the all-new [v5 UI Kit](https://github.com/cometchat/cometchat-uikit-re
 1. Clone the repository:
    - Using HTTPS
      ```
-     git clone https://github.com/cometchat/cometchat-sample-app-react-native.git
+     git clone https://github.com/ritahhhh/Chatbot-App-RN.git
      ```
 2. Navigate to the cloned directory:
    ```
