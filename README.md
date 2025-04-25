@@ -62,7 +62,7 @@ Discover the all-new [v5 UI Kit](https://github.com/cometchat/cometchat-uikit-re
      ```
 2. Navigate to the cloned directory:
    ```
-   cd Mychatbit-uikit-app-react-native
+   cd Mychatbot-uikit-app-react-native
    ```
 3. Install dependencies:
    ```
